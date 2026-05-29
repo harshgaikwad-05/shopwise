@@ -1,0 +1,10 @@
+# This file defines code ownership
+# Only the code owner can approve pull requests
+# Format: path @username
+
+* @harshgaikwad-05
+
+# Protect critical files
+app.py @harshgaikwad-05
+seed.py @harshgaikwad-05
+requirements.txt @harshgaikwad-05

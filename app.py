@@ -1,3 +1,10 @@
+"""
+Shopping Guide MVP - Main Application
+Copyright (c) 2026 - Harsh Satish Gaikwad. All rights reserved.
+Licensed under MIT License - See LICENSE file for details.
+Unauthorized copying, distribution, or modification is prohibited.
+"""
+
 import os
 from datetime import datetime
 from functools import wraps
